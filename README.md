@@ -16,6 +16,9 @@ Current work:
 
 - [literature.md](literature.md): a short orientation to relevant prompting and human-AI collaboration work.
 - [Experiment 000](experiments/000-detect-standing-instruction.md): check whether a tiny standing instruction produces a detectable, directionally predictable behavioral effect before trying to measure subtler collaboration questions.
-- [Experiment 001](experiments/001-durable-state-field-test.md): a one-week field test of a small standing instruction aimed at preserving durable project state, protecting convergence, and making substantive handoffs legible.
+- [Experiment 000 results](results/000-detect-standing-instruction.md): the standing-instruction assay produced a clear structural effect on all six targets and no targeted false positives on the four controls.
+- [Experiment 001](experiments/001-durable-state-field-test.md): a one-week field test of a broader collaboration prompt aimed at durable state, convergence, and legible handoffs.
+- [Experiment 001 results](results/001-durable-state-field-test.md): no clear ecological behavior shift was noticed; a separate unsolicited-continuation tic was substantially more salient.
+- [Experiment 002](experiments/002-terse-standing-instructions.md): a terse four-rule standing prompt, with a primary black-box probe asking whether a user-level stop condition can suppress unsolicited continuations.
 - [Changing seas beneath the experiment](notes/2026-09-16-changing-seas.md): a note on substrate drift and why visible product/harness changes should be logged rather than silently treated as fixed experimental conditions.
 - [Prompt impressions](prompt-impressions/2026-09-16-chatgpt-base.md): dated, explicitly non-authoritative snapshots of how the assistant functionally perceives its current base prompting and harness.
